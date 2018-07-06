@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataRecorder</string>
+    <string name="failed_to_access_external_storage">failed to access external_storage</string>
+    <string name="failed_to_access_camere">failed to access camere</string>
+</resources>
